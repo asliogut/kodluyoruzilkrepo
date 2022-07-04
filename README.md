@@ -3,7 +3,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![image](file:///C:/Users/aslı/Desktop/kodluyoruzilkrepo/index.html)
+![image](https://imgyukle.com/f/2022/07/01/Vsfgr8.jpg)
 
 ## Installation
 -----------------------------------------------------------------------------------------------------
